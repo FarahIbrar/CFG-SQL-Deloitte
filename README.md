@@ -1,7 +1,8 @@
 # CCXI (Code Cricket XI) Database
 
 ## Motivation and Aim
-The CCXI (Code Cricket XI) database was created to manage and analyze information related to cricket leagues, teams, players, matches, and user interactions. It aims to provide a centralized platform for cricket enthusiasts to engage with cricket data, including player statistics, match outcomes, and user predictions.
+The CCXI (Code Cricket XI) database was created to manage and analyze information related to cricket leagues, teams, players, matches, and user interactions. 
+It aims to provide a centralized platform for cricket enthusiasts to engage with cricket data, including player statistics, match outcomes, and user predictions.
 
 ## Database Overview
 CCXI is designed using MySQL and consists of several tables that organize various aspects of cricket management and analytics:
