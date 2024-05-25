@@ -1,4 +1,4 @@
-# Data Management Using SQL Coding Techniques - Week 6
+# Data Management - Week 6
 
 ## Overview
 This folder includes the following SQL files:
