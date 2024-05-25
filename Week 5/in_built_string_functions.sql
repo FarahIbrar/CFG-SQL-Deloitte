@@ -39,5 +39,5 @@ SELECT REVERSE('CodeFirstGirls');
 
 -- Table Column
 SELECT 	CONCAT(first_name, ' ', last_name) AS Concatenated_Full_Name,
-		REVERSE(CONCAT(first_name, ' ', last_name)) AS Reversed_Full_Name
+REVERSE(CONCAT(first_name, ' ', last_name)) AS Reversed_Full_Name
 FROM customers.customer; -- alternativly use any other DB populated with names (default db sakila.actor comes with names)
