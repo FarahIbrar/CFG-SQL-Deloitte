@@ -4,7 +4,7 @@
 
 This folder includes the following SQL files:
 
-### 1. bakery_db.sql
+### 1. `bakery_db.sql`
 
 - **Description**: Creates and populates a bakery database.
 - **Contents**:
@@ -13,7 +13,7 @@ This folder includes the following SQL files:
   - **Data Insertion**: Inserts sample data into both tables.
   - **Basic Query**: Selects all records from the `Sweet` table.
 
-### 2. parts_db.sql
+### 2. `parts_db.sql`
 
 - **Description**: Sets up and populates a parts supply database.
 - **Contents**:
