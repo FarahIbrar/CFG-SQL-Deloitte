@@ -1,4 +1,4 @@
--- Subquery practice with Customers DB
+-- Subquery practice with customers_db
 USE customers;
 
 SELECT first_name, last_name
