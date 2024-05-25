@@ -1,7 +1,6 @@
 # SQL coding and Database management technique - Week 2
-## Fundamentals of SQL - Week 2
 
-### Overview
+## Overview
 This folder includes the following SQL files:
 
 1. **constraints_and_indexes.sql**
