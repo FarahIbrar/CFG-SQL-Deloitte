@@ -38,5 +38,6 @@ This folder includes the following SQL files:
 - **Table Alteration:** Modifying existing table structures to enforce constraints.
 
 ## Purpose
-These scripts serve as a comprehensive demonstration of SQL skills, focusing on creating and managing relational databases with various constraints and indexes. 
-They highlight the ability to design robust database schemas, ensure data integrity, and perform essential data manipulation and retrieval operations. These skills are crucial for maintaining efficient and reliable database systems in any organization.
+- These scripts serve as a comprehensive demonstration of SQL skills, focusing on creating and managing relational databases with various constraints and indexes. 
+- They highlight the ability to design robust database schemas, ensure data integrity, and perform essential data manipulation and retrieval operations.
+- These skills are crucial for maintaining efficient and reliable database systems in any organization.
