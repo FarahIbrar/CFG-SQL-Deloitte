@@ -157,8 +157,10 @@ HAVING COUNT(p.player_id) <> 11;
 - **Normalization:** Ensuring data is organized to minimize redundancy and improve data integrity.
 - **Foreign Keys:** Establishing relationships between tables to maintain data consistency.
 - **Indexes:** Improving query performance by creating indexes on frequently searched columns.
-- **Stored Procedures:** Encapsulating complex logic to enhance database maintainability and security.
-- **Data Validation:** Implementing constraints to enforce data integrity and validity.
+- **Subqueries:** Utilizing subqueries to fetch intermediate results used in the main query.
+- **GROUP BY and HAVING:** Aggregating data and applying conditions on aggregated data to filter results.
+- **Joins:** Using various types of joins (INNER JOIN, LEFT JOIN) to combine rows from two or more tables based on related columns.
+- **COUNT:** Employing the COUNT function to count the number of items in a group, particularly useful in determining the number of players in a team.
 
 ## Purpose
 - The CCXI database is designed to manage and analyze cricket-related data efficiently.
