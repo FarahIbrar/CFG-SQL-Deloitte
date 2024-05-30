@@ -92,7 +92,7 @@
 
 ## Week 7: Projects Overview
 
-### CCDXI (Code Cricket XI) Database Project
+### CCXI (Code Cricket XI) Database Project
 - **Overview**: Designed to manage and analyze cricket-related data efficiently.
 - **Aim**: Provide a comprehensive solution for managing cricket leagues, teams, players, and user interactions.
 - **Tables**: Users, Leagues, Teams, Matches, Players, Team_Players, Batting_Records, Bowling_Records, User_Predictions.
@@ -118,7 +118,7 @@
 
 ---
 
-## Week 8: Advanced SQL Techniques and Database Management and CCDXI (Code Cricket XI) Database Project
+## Week 8: Advanced SQL Techniques and Database Management and CCXI (Code Cricket XI) Database Project
 
 ### Main Topics Covered
 - Advanced SQL queries
@@ -151,7 +151,7 @@
 ---
 
 ### What I Enjoyed the Most
-The part I enjoyed the most was working on the CCDXI (Code Cricket XI) Database Project. It was fascinating to manage and analyze cricket-related data, creating complex queries, and ensuring data integrity with triggers and stored procedures. This practical application of advanced SQL techniques was both challenging and rewarding.
+The part I enjoyed the most was working on the CCXI (Code Cricket XI) Database Project. It was fascinating to manage and analyze cricket-related data, creating complex queries, and ensuring data integrity with triggers and stored procedures. This practical application of advanced SQL techniques was both challenging and rewarding.
 
 ---
 
