@@ -84,8 +84,6 @@ First, the SQL code was written and the data was uploaded to the SQL database. A
 - Average Profit per Product
 - Number of Customers per Country
 
-These metrics were used to create various charts and visualizations. 
-
 These metrics were used to create various charts and visualizations. The data visualization covered several key topics:
 - What factors contribute to a country achieving the highest revenue?
 - How do price and sales volume affect revenue breakdown?
@@ -98,4 +96,4 @@ The Tableau dashboard provides an interactive experience, allowing users to hove
 The Tableau dashboard with the visualizations can be found at the following link:
 [Financial Analysis Dashboard](https://public.tableau.com/views/FinancialAnalysis_17170222645540/WhichCountryDominatesinFinancialPerformance?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
-
+![Which Country Dominates in Financial Performance](https://github.com/FarahIbrar/CFG-SQL-Deloitte/assets/168878908/b00e1068-b5b4-4be7-9add-e0c51d25f49e)
