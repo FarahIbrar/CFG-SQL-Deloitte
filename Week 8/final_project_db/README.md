@@ -17,7 +17,7 @@ These files contain bowling records with the following fields:
 - `economy`
 - `strike_rate`
 
-### CCDXI_db.sql
+### CCXI_db.sql
 This file contains the final script for the CCXI database. It includes all the necessary SQL commands to create and populate the database with relevant cricket data.
 
 ### Cricket data pt1.xlsx
@@ -63,5 +63,5 @@ The purpose of this project is to compile comprehensive cricket data from variou
 
 ## Additional Notes
 - The `.xlsx` files contain extensive data which may require downloading to preview fully.
-- For a detailed exploration of the code and database structure, open the `CCDXI_db.sql` file.
+- For a detailed exploration of the code and database structure, open the `CCXI_db.sql` file.
 - More information on the project, including the final project code, can be found in the README file located in the main Week 8 folder.
