@@ -84,8 +84,18 @@ First, the SQL code was written and the data was uploaded to the SQL database. A
 - Average Profit per Product
 - Number of Customers per Country
 
-These metrics were used to create various charts and visualizations. The Tableau dashboard with the visualizations can be found at the following link:
+These metrics were used to create various charts and visualizations. 
+
+These metrics were used to create various charts and visualizations. The data visualization covered several key topics:
+- What factors contribute to a country achieving the highest revenue?
+- How do price and sales volume affect revenue breakdown?
+- Which country achieves the highest profit?
+- How do profit margins and average spent/product compare across countries?
+
+## Features of Visualization
+The Tableau dashboard provides an interactive experience, allowing users to hover over graphs for more information and select countries for individual analysis. Although identifying trends was challenging with the sample data, efforts were made to extract meaningful insights and create a coherent storyline. The visualizations aimed to highlight financial performance and trends across different countries.
+
+The Tableau dashboard with the visualizations can be found at the following link:
 [Financial Analysis Dashboard](https://public.tableau.com/views/FinancialAnalysis_17170222645540/WhichCountryDominatesinFinancialPerformance?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
-More details on this project can be found in Week 7's main README.md file.
 
