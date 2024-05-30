@@ -86,9 +86,19 @@ The data analysis and visualization involved performing manual calculations, suc
 - Average Profit per Product
 - Number of Customers per Country
 
-The visualizations covered various aspects of financial performance and trends in the data. Features of the visualization include the ability to hover over graphs for more information and select countries for individual analysis.
+These metrics were used to create various charts and visualizations. The data visualization covered several key topics:
+- What factors contribute to a country achieving the highest revenue?
+- How do price and sales volume affect revenue breakdown?
+- Which country achieves the highest profit?
+- How do profit margins and average spent/product compare across countries?
 
-[View the Tableau Visualization](https://public.tableau.com/shared/8RSYN7CGB?:display_count=n&:origin=viz_share_link)
+#### Features of Visualization
+The Tableau dashboard provides an interactive experience, allowing users to hover over graphs for more information and select countries for individual analysis. Although identifying trends was challenging with the sample data, efforts were made to extract meaningful insights and create a coherent storyline. The visualizations aimed to highlight financial performance and trends across different countries.
+
+The Tableau dashboard with the visualizations can be found at the following link:
+[Financial Analysis Dashboard](https://public.tableau.com/views/FinancialAnalysis_17170222645540/WhichCountryDominatesinFinancialPerformance?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Which Country Dominates in Financial Performance](https://github.com/FarahIbrar/CFG-SQL-Deloitte/assets/168878908/b00e1068-b5b4-4be7-9add-e0c51d25f49e)
 
 #### Purpose
 This project demonstrates the ability to analyze and visualize financial data, providing valuable insights for data-driven decision-making. It showcases skills in SQL scripting, data integration, and data visualization.
