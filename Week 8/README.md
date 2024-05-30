@@ -357,6 +357,9 @@ Stored procedures, like the `UpdateLastLogin` procedure, provide reusable and ef
 
 The `GROUP BY` clause is used to group rows that have the same values into summary rows. It is often used with aggregate functions such as `SUM`, `COUNT`, `AVG`, etc. The `HAVING` clause is used to filter records returned by `GROUP BY`.
 
+## **NOTE**
+Due to recurring SQL crashes that prevented the creation of an ER diagram, the reverse engineering process was not possible. As a result, I do not have the ER diagram available.
+
 ## Purpose
 
 The purpose of the CCDXI database project is to compile comprehensive cricket data from various leagues, clean and prepare this data for analysis, and store it in a structured database. This database can then be used for detailed analysis, reporting, and decision-making in cricket management and analytics.
