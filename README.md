@@ -115,7 +115,6 @@
 - How to analyze financial data and derive meaningful insights.
 - How to use SQL and Tableau for data extraction, cleaning, and visualization.
 - How to create visualizations to support data-driven decision-making.
-- 
 
 ---
 
