@@ -172,4 +172,4 @@ Contributions are welcome! If you have any suggestions or improvements, please s
 ---
 
 ### License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code, provided that appropriate credit is given to the original author.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code, provided that appropriate credit is given to the original author.
