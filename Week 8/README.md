@@ -1,20 +1,20 @@
-# CCDXI (Code Cricket XI) Database Project
+# CCXI (Code Cricket XI) Database Project
 
 ## Overview
 
-The CCDXI (Code Cricket XI) project is a comprehensive database designed to manage and analyze cricket-related data from various leagues. It includes tables for storing player statistics, team details, match information, and user predictions. The database aims to provide insights into player performance, team dynamics, and match outcomes across multiple cricket leagues.
+The CCXI (Code Cricket XI) project is a comprehensive database designed to manage and analyze cricket-related data from various leagues. It includes tables for storing player statistics, team details, match information, and user predictions. The database aims to provide insights into player performance, team dynamics, and match outcomes across multiple cricket leagues.
 
 ## Files and Tables
 
 ### Files in the Project
 
 - **BowlingRecords.csv & BowlingRecords.xlsx**: Contains detailed bowling statistics.
-- **CCDXI_db.sql**: SQL script for creating and populating the CCDXI database.
+- **CCXI_db.sql**: SQL script for creating and populating the CCXI database.
 - **Cricket data pt1.xlsx**: Includes player and team statistics.
 - **Cricket data.xlsx**: Data from PSL, BBL, and IPL leagues.
 - **players data.xlsx**: Player data including performance metrics.
 
-### Tables in CCDXI
+### Tables in CCXI
 
 1. **Users**: Stores user details including usernames, emails, and join dates.
 2. **Leagues**: Contains information about cricket leagues such as league names and statuses.
@@ -362,7 +362,7 @@ Due to recurring SQL crashes that prevented the creation of an ER diagram, the r
 
 ## Purpose
 
-The purpose of the CCDXI database project is to compile comprehensive cricket data from various leagues, clean and prepare this data for analysis, and store it in a structured database. This database can then be used for detailed analysis, reporting, and decision-making in cricket management and analytics.
+The purpose of the CCXI database project is to compile comprehensive cricket data from various leagues, clean and prepare this data for analysis, and store it in a structured database. This database can then be used for detailed analysis, reporting, and decision-making in cricket management and analytics.
 
 ## Future Implications
 
