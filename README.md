@@ -33,7 +33,7 @@
   - shop_db_queries.sql: Queries for analyzing sales data in the SHOP database.
   - bakery_db_queries.sql: Queries for retrieving and analyzing data in the Bakery database.
 
-### What did I learn?
+### What did I learn? 
 - How to write complex SQL queries to analyze and manipulate data.
 - How to use aggregation functions like COUNT, SUM, AVG, MIN, MAX.
 - How to group and filter data using GROUP BY and HAVING clauses.
