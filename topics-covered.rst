@@ -14,25 +14,25 @@ SQL and Data Course Overview
        - - Core commands to insert and get data from a DB
        - - Basic SQL commands (e.g., SELECT, INSERT, UPDATE) and their role in extracting, manipulating, and managing data
    * - RELATIONAL DATABASE MODEL
-     - -
+     - 
    * - SQL DATA TYPES
-     - -
+     - 
    * - SQL SYNTAX CODING QUERIES
-     - -
+     - 
    * - SQL SYNTAX BUILDING A DATABASE
-     - -
+     - 
    * - SQL CODING DB MANAGEMENT TECHNIQUE
      - - Implemented indexing in databases to optimize query performance and ensure efficient data retrieval.
        - - Data Modification Techniques
        - - Data Retrieval Techniques
    * - DATABASE NORMALISATION (1NF, 2NF, 3NF)
-     - -
+     - 
    * - SQL CONSTRAINT TYPES
-     - -
+     - 
    * - DATA INTEGRITY
-     - -
+     - 
    * - DATABASE RELATIONSHIPS
-     - -
+     - 
    * - SQL CODING
      - - Data Definition Language (DDL) Commands
        - - Data Manipulation Language (DML) commands
